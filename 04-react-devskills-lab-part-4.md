@@ -39,3 +39,7 @@ This lab provides an opportunity to practice:
 7. For a better UX, after the new skill is added, the form should reset to the same values used to initialized the state.
 
 ## This lab combined with Parts 1, 2 & 3 is a Deliverable
+
+
+Link to the completed CodeSandbox for Parts 1,2,3,4
+https://codesandbox.io/s/react-dev-skills-y8yn84?file=/src/App.js
