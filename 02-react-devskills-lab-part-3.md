@@ -2,6 +2,14 @@
 
 # React Dev Skills Lab - Part 3
 
+# Deliverable Part 3 & Part 4 Links
+
+Part 3: https://codesandbox.io/s/react-dev-skills-part-3-ewjxj1?file=/src/NewSkillForm.jsx
+
+<br>
+
+Part 4: https://codesandbox.io/s/react-dev-skills-part-4-lceicy?file=/src/NewSkillForm.jsx
+
 ## Intro
 
 This lab will simply ask you to use the `useState` hook to add state to the React Dev Skills app.
