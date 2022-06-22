@@ -1,5 +1,9 @@
 <img src="https://i.imgur.com/VunmGEq.jpg">
 
+PARTS 1 2 3 4
+REACT DAY 2 DELIVERABLE: https://codesandbox.io/s/react-dev-skills-2-kop0mf
+
+
 # React Fundamentals - Using and Updating State
 
 ## Learning Objectives
