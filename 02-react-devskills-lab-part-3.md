@@ -2,6 +2,9 @@
 
 # React Dev Skills Lab - Part 3
 
+https://codesandbox.io/s/wk7deli2pt3-4-q6j3zo?file=/src/SkillListItem.jsx
+
+
 ## Intro
 
 This lab will simply ask you to use the `useState` hook to add state to the React Dev Skills app.
