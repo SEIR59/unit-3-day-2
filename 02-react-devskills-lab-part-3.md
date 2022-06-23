@@ -2,6 +2,10 @@
 
 # React Dev Skills Lab - Part 3
 
+## MILES COMPLETED ASSIGNMENT URL:
+
+https://codesandbox.io/s/miles-intro-react-hw2-pt3-4x7e03
+
 ## Intro
 
 This lab will simply ask you to use the `useState` hook to add state to the React Dev Skills app.
