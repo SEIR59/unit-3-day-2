@@ -2,8 +2,6 @@
 
 # React Dev Skills Lab - Part 4
 
-sandbox link: https://codesandbox.io/s/react-dev-skills-6v8muw?file=/src/NewSkillForm.jsx
-
 ## Intro
 
 This lab provides an opportunity to practice:
